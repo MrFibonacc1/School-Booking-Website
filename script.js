@@ -2,6 +2,7 @@
 
 //These are all just methods
 //Header scrolling affect
+//Tested on google chrome browser
 //And for the nav bar
 //Used to make the page look nice
 
