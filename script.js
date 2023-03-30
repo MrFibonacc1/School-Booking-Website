@@ -2,7 +2,7 @@
 
 //These are all just methods
 //Header scrolling affect
-//Tested on google chrome browser
+//Tested on google chrome browser in 2022
 //And for the nav bar
 //Used to make the page look nice
 
