@@ -2,7 +2,7 @@
 
 // This config.php file is requried to connect to the database
 
-include 'config.php';
+
 
 error_reporting(0);
 
