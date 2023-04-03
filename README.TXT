@@ -6,4 +6,4 @@ I have organized the files into different sections of the software:
 
 Admin Panel : Contains all of the files needed in the admin side and makes up the majority of the code
 
-
+The rest of the files on the main page make up the public side of the website.
