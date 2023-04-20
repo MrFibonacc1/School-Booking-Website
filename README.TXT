@@ -13,4 +13,4 @@ The rest of the files on the main page make up the public side of the website.
 This project is accessible publicly if you visit the url: www.myEduBooking.com
 However, it may be possible that the url link has expired and you are unable to reach that web page.
 
-To set up this project it would be require ZAAMP
+To set up this project it would be require ZAAMP. ZAAMP contains a page where you can launch a local server on your machine
